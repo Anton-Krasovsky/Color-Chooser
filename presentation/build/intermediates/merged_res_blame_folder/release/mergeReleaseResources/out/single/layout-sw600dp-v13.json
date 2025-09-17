@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.krasouski.presentation-release-50:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.krasouski.presentation-material-1.13.0-40:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.krasouski.presentation-release-50:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.krasouski.presentation-material-1.13.0-40:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

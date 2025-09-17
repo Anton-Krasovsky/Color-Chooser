@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.krasouski.domain-release-34:/layout-v26/abc_screen_toolbar.xml",
+        "source": "com.krasouski.domain-appcompat-1.7.1-4:/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.krasouski.domain-release-34:/layout-v26/mtrl_calendar_month.xml",
+        "source": "com.krasouski.domain-material-1.13.0-24:/layout-v26/mtrl_calendar_month.xml"
+    }
+]

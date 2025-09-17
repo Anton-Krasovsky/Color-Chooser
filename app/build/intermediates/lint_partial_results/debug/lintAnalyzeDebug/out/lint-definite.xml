@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.12.3" type="incidents">
+
+    <incident
+        id="RedundantLabel"
+        severity="warning"
+        message="Redundant label can be removed">
+        <fix-attribute
+            description="Delete label"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="label"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*manifest*0}"
+            line="17"
+            column="13"
+            startOffset="663"
+            endLine="17"
+            endColumn="45"
+            endOffset="695"/>
+    </incident>
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of Gradle than 8.13 is available: 8.14.3">
+        <fix-replace
+            description="Update to 8.14.3"
+            oldString="8.13"
+            replacement="8.14.3"
+            priority="0"/>
+        <location
+            file="$HOME/AndroidStudioProjects/ColorChooser/gradle/wrapper/gradle-wrapper.properties"
+            line="4"
+            column="17"
+            startOffset="111"
+            endLine="4"
+            endColumn="79"
+            endOffset="173"/>
+    </incident>
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of com.android.application than 8.12.3 is available: 8.13.0">
+        <fix-replace
+            description="Replace with 8.13.0"
+            family="Update versions"
+            oldString="8.12.3"
+            replacement="8.13.0"
+            priority="0"/>
+        <location
+            file="$HOME/AndroidStudioProjects/ColorChooser/gradle/libs.versions.toml"
+            line="2"
+            column="7"
+            startOffset="17"
+            endLine="2"
+            endColumn="15"
+            endOffset="25"/>
+        <map>
+            <entry
+                name="coordinate"
+                string="com.android.application"/>
+            <entry
+                name="revision"
+                string="8.13.0"/>
+        </map>
+    </incident>
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of com.android.library than 8.12.3 is available: 8.13.0">
+        <fix-replace
+            description="Replace with 8.13.0"
+            family="Update versions"
+            oldString="8.12.3"
+            replacement="8.13.0"
+            priority="0"/>
+        <location
+            file="$HOME/AndroidStudioProjects/ColorChooser/gradle/libs.versions.toml"
+            line="2"
+            column="7"
+            startOffset="17"
+            endLine="2"
+            endColumn="15"
+            endOffset="25"/>
+        <map>
+            <entry
+                name="coordinate"
+                string="com.android.application"/>
+            <entry
+                name="revision"
+                string="8.13.0"/>
+        </map>
+    </incident>
+
+</incidents>

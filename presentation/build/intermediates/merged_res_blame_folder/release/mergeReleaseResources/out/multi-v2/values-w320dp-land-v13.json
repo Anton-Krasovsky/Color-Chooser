@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.krasouski.presentation-mergeReleaseResources-48:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/antonkrasovsky/.gradle/caches/8.13/transforms/e3e0ad926eba2b1bf608618fbc5164b3/transformed/material-1.13.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.krasouski.presentation-release-50:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/antonkrasovsky/.gradle/caches/8.13/transforms/e3e0ad926eba2b1bf608618fbc5164b3/transformed/material-1.13.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}

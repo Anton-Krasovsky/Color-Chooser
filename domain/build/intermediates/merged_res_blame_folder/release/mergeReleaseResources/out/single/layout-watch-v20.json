@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.krasouski.domain-release-34:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.krasouski.domain-appcompat-1.7.1-4:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.krasouski.domain-release-34:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.krasouski.domain-appcompat-1.7.1-4:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

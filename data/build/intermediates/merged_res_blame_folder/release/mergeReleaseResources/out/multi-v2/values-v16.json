@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.krasouski.data-release-38:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/antonkrasovsky/.gradle/caches/8.13/transforms/0f7c856d6ffee5f98c7d619436934a96/transformed/appcompat-1.7.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.krasouski.data-mergeReleaseResources-36:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/antonkrasovsky/.gradle/caches/8.13/transforms/0f7c856d6ffee5f98c7d619436934a96/transformed/appcompat-1.7.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

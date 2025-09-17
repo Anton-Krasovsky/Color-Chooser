@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/antonkrasovsky/AndroidStudioProjects/ColorChooser/domain"
+    name=":domain"
+    type="LIBRARY"
+    maven="Color Chooser:domain:unspecified"
+    agpVersion="8.12.3"
+    buildFolder="build"
+    bootClassPath="/Users/antonkrasovsky/Library/Android/sdk/platforms/android-36/android.jar:/Users/antonkrasovsky/Library/Android/sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

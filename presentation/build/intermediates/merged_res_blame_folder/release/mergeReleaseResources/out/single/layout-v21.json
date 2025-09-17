@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.krasouski.presentation-release-50:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.krasouski.presentation-core-1.17.0-7:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.krasouski.presentation-release-50:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.krasouski.presentation-core-1.17.0-7:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.krasouski.presentation-release-50:/layout-v21/notification_action.xml",
+        "source": "com.krasouski.presentation-core-1.17.0-7:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.krasouski.presentation-release-50:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.krasouski.presentation-core-1.17.0-7:/layout-v21/notification_template_icon_group.xml"
+    }
+]
